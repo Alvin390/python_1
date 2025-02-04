@@ -14,3 +14,5 @@ num3=21
 num4=52
 print(num3==num4) #equal to
 print(num3 !=num4) #not equal to
+print(num3 > num4) #greater than
+print(num3 < num4) #less than
