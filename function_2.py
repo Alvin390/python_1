@@ -11,3 +11,7 @@ def sum_of_two_numbers (num1,num2):
     return num1+num2
 result=sum_of_two_numbers(2,3)
 print(result)
+def product_of_two_numbers (x,y):
+    return x*y
+answ=product_of_two_numbers(2,3)
+print(answ)
